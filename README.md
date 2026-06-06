@@ -1,6 +1,6 @@
 # Hey, I'm Rupesh 👋
 **Full Stack Developer** from Bhilai, India 🇮🇳  
-BCA Student · Building secure, real-time & AI-powered web applications.
+MCA Student · Building secure, real-time & AI-powered web applications.
 ```js
 const rupesh = {
     pronouns: "he/him",
