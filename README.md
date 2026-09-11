@@ -1,5 +1,4 @@
-# Hi, I'm Rupesh Kumar
-
+# Hi, I'm Rupesh
 **Full-Stack / Backend Developer · MCA Student · Open-Source Contributor**
 
 I build practical web applications with a focus on **backend engineering, authentication, security, databases, and real-time systems**.
